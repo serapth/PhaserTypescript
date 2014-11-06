@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:378ef88e2c9e9befb4132b7e08ad3394:7341145f8b907777ca620538e6ee46f3:96d0c542c832f4418001d5ac4b876966$ -->
+<TextureAtlas imagePath="jet.png">
+    <SubTexture name="0001" x="2" y="2" width="192" height="128"/>
+    <SubTexture name="0002" x="196" y="2" width="192" height="128"/>
+    <SubTexture name="0003" x="390" y="2" width="192" height="128"/>
+    <SubTexture name="0004" x="584" y="2" width="192" height="128"/>
+    <SubTexture name="0005" x="778" y="2" width="192" height="128"/>
+    <SubTexture name="0006" x="2" y="132" width="192" height="128"/>
+    <SubTexture name="0007" x="196" y="132" width="192" height="128"/>
+    <SubTexture name="0008" x="390" y="132" width="192" height="128"/>
+    <SubTexture name="0009" x="584" y="132" width="192" height="128"/>
+    <SubTexture name="0010" x="778" y="132" width="192" height="128"/>
+    <SubTexture name="0011" x="2" y="262" width="192" height="128"/>
+    <SubTexture name="0012" x="196" y="262" width="192" height="128"/>
+    <SubTexture name="0013" x="390" y="262" width="192" height="128"/>
+    <SubTexture name="0014" x="584" y="262" width="192" height="128"/>
+    <SubTexture name="0015" x="778" y="262" width="192" height="128"/>
+    <SubTexture name="0016" x="2" y="392" width="192" height="128"/>
+    <SubTexture name="0017" x="196" y="392" width="192" height="128"/>
+    <SubTexture name="0018" x="390" y="392" width="192" height="128"/>
+    <SubTexture name="0019" x="584" y="392" width="192" height="128"/>
+    <SubTexture name="0020" x="778" y="392" width="192" height="128"/>
+</TextureAtlas>

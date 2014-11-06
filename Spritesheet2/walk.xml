@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:a6e51795dbe6b13cd639951a1f67241c$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="walk.png" width="512" height="960">
+    <sprite n="Walk_left00" x="0" y="0" w="128" h="96"/>
+    <sprite n="Walk_left01" x="128" y="0" w="128" h="96"/>
+    <sprite n="Walk_left02" x="256" y="0" w="128" h="96"/>
+    <sprite n="Walk_left03" x="384" y="0" w="128" h="96"/>
+    <sprite n="Walk_left04" x="0" y="96" w="128" h="96"/>
+    <sprite n="Walk_left05" x="128" y="96" w="128" h="96"/>
+    <sprite n="Walk_left06" x="256" y="96" w="128" h="96"/>
+    <sprite n="Walk_left07" x="384" y="96" w="128" h="96"/>
+    <sprite n="Walk_left08" x="0" y="192" w="128" h="96"/>
+    <sprite n="Walk_left09" x="128" y="192" w="128" h="96"/>
+    <sprite n="Walk_left10" x="256" y="192" w="128" h="96"/>
+    <sprite n="Walk_left11" x="384" y="192" w="128" h="96"/>
+    <sprite n="Walk_left12" x="0" y="288" w="128" h="96"/>
+    <sprite n="Walk_left13" x="128" y="288" w="128" h="96"/>
+    <sprite n="Walk_left14" x="256" y="288" w="128" h="96"/>
+    <sprite n="Walk_left15" x="384" y="288" w="128" h="96"/>
+    <sprite n="Walk_left16" x="0" y="384" w="128" h="96"/>
+    <sprite n="Walk_left17" x="128" y="384" w="128" h="96"/>
+    <sprite n="Walk_left18" x="256" y="384" w="128" h="96"/>
+    <sprite n="Walk_right00" x="384" y="384" w="128" h="96"/>
+    <sprite n="Walk_right01" x="0" y="480" w="128" h="96"/>
+    <sprite n="Walk_right02" x="128" y="480" w="128" h="96"/>
+    <sprite n="Walk_right03" x="256" y="480" w="128" h="96"/>
+    <sprite n="Walk_right04" x="384" y="480" w="128" h="96"/>
+    <sprite n="Walk_right05" x="0" y="576" w="128" h="96"/>
+    <sprite n="Walk_right06" x="128" y="576" w="128" h="96"/>
+    <sprite n="Walk_right07" x="256" y="576" w="128" h="96"/>
+    <sprite n="Walk_right08" x="384" y="576" w="128" h="96"/>
+    <sprite n="Walk_right09" x="0" y="672" w="128" h="96"/>
+    <sprite n="Walk_right10" x="128" y="672" w="128" h="96"/>
+    <sprite n="Walk_right11" x="256" y="672" w="128" h="96"/>
+    <sprite n="Walk_right12" x="384" y="672" w="128" h="96"/>
+    <sprite n="Walk_right13" x="0" y="768" w="128" h="96"/>
+    <sprite n="Walk_right14" x="128" y="768" w="128" h="96"/>
+    <sprite n="Walk_right15" x="256" y="768" w="128" h="96"/>
+    <sprite n="Walk_right16" x="384" y="768" w="128" h="96"/>
+    <sprite n="Walk_right17" x="0" y="864" w="128" h="96"/>
+    <sprite n="Walk_right18" x="128" y="864" w="128" h="96"/>
+</TextureAtlas>
