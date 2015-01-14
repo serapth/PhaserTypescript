@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:ce07cdf28de72ab4c8f9fbb71db4782b:882ba5d5605027c8d59e418dd64a52da:77d3ad57d1d3d80f0075639818199d52$ -->
+<TextureAtlas imagePath="Hero_Idle.png">
+    <SubTexture name="0001" x="2" y="2" width="128" height="256"/>
+    <SubTexture name="0002" x="132" y="2" width="128" height="256"/>
+    <SubTexture name="0003" x="262" y="2" width="128" height="256"/>
+    <SubTexture name="0004" x="392" y="2" width="128" height="256"/>
+    <SubTexture name="0005" x="522" y="2" width="128" height="256"/>
+    <SubTexture name="0006" x="652" y="2" width="128" height="256"/>
+    <SubTexture name="0007" x="2" y="260" width="128" height="256"/>
+    <SubTexture name="0008" x="132" y="260" width="128" height="256"/>
+    <SubTexture name="0009" x="262" y="260" width="128" height="256"/>
+    <SubTexture name="0010" x="392" y="260" width="128" height="256"/>
+    <SubTexture name="0011" x="522" y="260" width="128" height="256"/>
+    <SubTexture name="0012" x="652" y="260" width="128" height="256"/>
+    <SubTexture name="0013" x="2" y="518" width="128" height="256"/>
+    <SubTexture name="0014" x="132" y="518" width="128" height="256"/>
+    <SubTexture name="0015" x="262" y="518" width="128" height="256"/>
+    <SubTexture name="0016" x="392" y="518" width="128" height="256"/>
+    <SubTexture name="0017" x="522" y="518" width="128" height="256"/>
+    <SubTexture name="0018" x="652" y="518" width="128" height="256"/>
+    <SubTexture name="0019" x="2" y="776" width="128" height="256"/>
+    <SubTexture name="0020" x="132" y="776" width="128" height="256"/>
+    <SubTexture name="0021" x="262" y="776" width="128" height="256"/>
+    <SubTexture name="0022" x="392" y="776" width="128" height="256"/>
+    <SubTexture name="0023" x="522" y="776" width="128" height="256"/>
+    <SubTexture name="0024" x="652" y="776" width="128" height="256"/>
+    <SubTexture name="0025" x="2" y="1034" width="128" height="256"/>
+    <SubTexture name="0026" x="132" y="1034" width="128" height="256"/>
+    <SubTexture name="0027" x="262" y="1034" width="128" height="256"/>
+    <SubTexture name="0028" x="392" y="1034" width="128" height="256"/>
+    <SubTexture name="0029" x="522" y="1034" width="128" height="256"/>
+    <SubTexture name="0030" x="2" y="2" width="128" height="256"/>
+</TextureAtlas>
