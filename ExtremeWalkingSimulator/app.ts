@@ -11,9 +11,9 @@
 
         preload() {
             // Graphics
-            this.game.load.image("title", "/Graphics/TitleScreen.png");
-            this.game.load.image("scene", "/Graphics/scene720p.png");
-            this.game.load.image("gameover", "/Graphics/GameOver.png");
+            this.game.load.image("title", "Graphics/TitleScreen.png");
+            this.game.load.image("scene", "Graphics/scene720p.png");
+            this.game.load.image("gameover", "Graphics/GameOver.png");
 
             //Spritesheets
             this.game.load.atlasXML("HERO_WALKING", "Graphics/Hero_Walking.png", "Graphics/Hero_Walking.xml");
