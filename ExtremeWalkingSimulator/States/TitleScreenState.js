@@ -21,6 +21,8 @@ var GameFromScratch;
             this.music.volume = 0.25;
             this.music.loop = true;
             this.music.play();
+            this.music.stop();
+            this.music.play();
 
             this.input.onTap.addOnce(this.titleClicked, this);
         };
