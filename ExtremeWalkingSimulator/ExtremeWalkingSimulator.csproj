@@ -19,6 +19,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Content Include="app.css" />
+    <Content Include="Assets\backgroundtexture2.jpg" />
+    <Content Include="Assets\boafront.jpg" />
+    <Content Include="Assets\buildtexture.jpg" />
+    <Content Include="Assets\roadtexture.jpg" />
     <Content Include="Graphics\GameOver.png" />
     <Content Include="Graphics\Hero_Idle.png" />
     <Content Include="Graphics\Hero_Idle.xml" />
@@ -41,6 +45,9 @@
     <TypeScriptCompile Include="States\TitleScreenState.ts" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assets\CityBackground.blend" />
+    <Content Include="Assets\idle.blend" />
+    <Content Include="Assets\walkcycle.blend" />
     <None Include="web.Debug.config">
       <DependentUpon>web.config</DependentUpon>
     </None>
