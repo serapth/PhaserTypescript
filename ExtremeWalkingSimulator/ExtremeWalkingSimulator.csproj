@@ -19,10 +19,13 @@
   </PropertyGroup>
   <ItemGroup>
     <Content Include="app.css" />
+    <Content Include="app.js" />
     <Content Include="Assets\backgroundtexture2.jpg" />
     <Content Include="Assets\boafront.jpg" />
     <Content Include="Assets\buildtexture.jpg" />
     <Content Include="Assets\roadtexture.jpg" />
+    <Content Include="GameObjects\MyScene.js" />
+    <Content Include="GameObjects\Player.js" />
     <Content Include="Graphics\GameOver.png" />
     <Content Include="Graphics\Hero_Idle.png" />
     <Content Include="Graphics\Hero_Idle.xml" />
@@ -32,7 +35,11 @@
     <Content Include="Graphics\TitleScreen.png" />
     <Content Include="index.html" />
     <Content Include="phaser.js" />
+    <Content Include="phaser.min.js" />
     <Content Include="Sounds\TitleSong.wav" />
+    <Content Include="States\GameOverState.js" />
+    <Content Include="States\GamePlayState.js" />
+    <Content Include="States\TitleScreenState.js" />
     <Content Include="web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -48,6 +55,12 @@
     <Content Include="Assets\CityBackground.blend" />
     <Content Include="Assets\idle.blend" />
     <Content Include="Assets\walkcycle.blend" />
+    <Content Include="GameObjects\MyScene.js.map" />
+    <Content Include="GameObjects\Player.js.map" />
+    <Content Include="States\GameOverState.js.map" />
+    <Content Include="States\GamePlayState.js.map" />
+    <Content Include="States\TitleScreenState.js.map" />
+    <Content Include="app.js.map" />
     <None Include="web.Debug.config">
       <DependentUpon>web.config</DependentUpon>
     </None>
