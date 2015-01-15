@@ -29,6 +29,7 @@
     <Content Include="Graphics\GameOver.png" />
     <Content Include="Graphics\Hero_Idle.png" />
     <Content Include="Graphics\Hero_Idle.xml" />
+    <Content Include="Graphics\Hero_Walking.png" />
     <Content Include="Graphics\Hero_Walking.xml" />
     <Content Include="Graphics\scene.png" />
     <Content Include="Graphics\scene720p.png" />
@@ -36,6 +37,7 @@
     <Content Include="index.html" />
     <Content Include="phaser.js" />
     <Content Include="phaser.min.js" />
+    <Content Include="Sounds\TitleSong.mp3" />
     <Content Include="Sounds\TitleSong.wav" />
     <Content Include="States\GameOverState.js" />
     <Content Include="States\GamePlayState.js" />
@@ -61,6 +63,7 @@
     <Content Include="States\GamePlayState.js.map" />
     <Content Include="States\TitleScreenState.js.map" />
     <Content Include="app.js.map" />
+    <Content Include="Sounds\TitleSong.ogg" />
     <None Include="web.Debug.config">
       <DependentUpon>web.config</DependentUpon>
     </None>
