@@ -19,7 +19,7 @@
             this.music = this.game.add.audio("TitleSong");
             this.music.volume = 0.25;
             this.music.loop = true;
-            this.music.play();
+            //this.music.play();
 
 
             this.input.onTap.addOnce(this.titleClicked, this); 
